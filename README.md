@@ -30,7 +30,7 @@ This repository tracks my progress as I:
 
 | Project | Description | Tools Used | Status |
 |--------|-------------|------------|--------|
-| [Project 1: Superstore Sales Analysis](./Superstore_SQL_Project) | My first SQL project analyzing sales trends, customer behavior, and regional performance | Excel, PostgreSQL, SQL, pgAdmin | ✅ Completed |
+| [Project 1: Superstore Sales Analysis](project) | My first SQL project analyzing sales trends, customer behavior, and regional performance | Excel, PostgreSQL, SQL, pgAdmin | ✅ Completed |
 
 ---
 
